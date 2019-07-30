@@ -21,7 +21,8 @@ Run New App
             localhost:3000 (default)
         Opens default browser
 
-
+Babel
+    converts JSX expressions to a JS syntax for the browser.
 
 
 
